@@ -1,4 +1,4 @@
-# Transductive-supervised-learning
+# Graphical-Convolutional-Network
 The task is to find classes of nodes of a citation network given the citation links between some documents.The data set being 
 used  is CiteSeer which consists of bag of words and citation links.
 There are a total 6 classes of which each document can belong to.
